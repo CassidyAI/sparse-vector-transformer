@@ -6,3 +6,4 @@ gunicorn
 pymilvus
 typing
 pymilvus[model]
+torch
